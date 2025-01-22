@@ -132,7 +132,7 @@ export default function handler(req, res) {
 - **Other Databases**: For PostgreSQL or MSSQL, you can use `errsole-postgres` or `errsole-mssql` respectively with similar configurations.  
 - **Log Rotation**: If your logs become very large, consider implementing database cleanup or archiving.
 
-For more details, refer to the official [Errsole Documentation](https://github.com/errsole/errsole.js)).
+For more details, refer to the official [Errsole Documentation](https://github.com/errsole/errsole.js).
 
 ---
 
