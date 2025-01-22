@@ -1,10 +1,3 @@
-**nextjs-server-log-viewer**  
-A Next.js application demonstrating how to set up server-side logging using [Errsole](https://github.com/errsole/errsole.js) with MySQL. This repository provides an example configuration for capturing and viewing logs in real-time through Errsole’s web-based dashboard, offering an efficient solution for debugging and performance monitoring of Next.js SSR applications.
-
----
-
-## README
-
 # Next.js Server Log Viewer
 
 This repository showcases how to implement server-side logging in a Next.js application using **Errsole** and **MySQL**. By storing logs in a MySQL database, you can conveniently search and manage your logs through Errsole’s user-friendly web dashboard—essential for troubleshooting SSR issues and monitoring production performance.
